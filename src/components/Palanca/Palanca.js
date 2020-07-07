@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, createRef } from "react";
+import React from "react";
 
 import classes from './Palanca.css';
 import lottie from "lottie-web";
