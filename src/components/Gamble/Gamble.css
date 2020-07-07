@@ -1,0 +1,24 @@
+.Gamble {
+    margin-top: 20px;
+    float: right;
+}
+
+.GambleTitle {
+    position: relative;
+    display: inline-block;
+    padding-right: 30px;
+    text-align: right;
+    width: 100px;
+    font-size: 14px;
+}
+
+.GambleItem {
+    align-items: center;
+    width: 650px;
+    border: 1px solid #000;
+    padding-top: 20px;
+    padding-bottom: 22px;
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+}

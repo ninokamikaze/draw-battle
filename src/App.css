@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+  font-family: monospace;
+}
+
+.App p {
+  text-align: center;
+  font-family: monospace;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  text-align: left;
+  line-height: 0.2;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.BtnRandom {
+  margin-top: 40px;
+}
+
+.TitleAscii {
+  float: left;
+  font-family: monospace;
+  font-size: 15px;
+  width: 100%;
+  white-space: pre;
+  display: inline-block;
+  overflow-wrap: break-word;
+  padding-bottom: 10px;
+  position: relative;
+}
+
+.Ruleta {
+  width: 70%;
+  height: 300px;
+  position: relative;
+  display: inline-block;
+  float: left;
+  padding-top: 15px;
+}
+
+.Palanca {
+  width: 30%;
+  position: relative;
+  display: inline-block;
+}
+
+.GambleStyle {
+  float: right;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
