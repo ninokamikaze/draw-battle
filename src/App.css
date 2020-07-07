@@ -69,3 +69,18 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+@media (max-width: 900px) {
+  .TitleAscii {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 568px) {
+  .Ruleta {
+    width: 75%;
+  }
+  .Palanca {
+    width: 25%;
+  }
+}

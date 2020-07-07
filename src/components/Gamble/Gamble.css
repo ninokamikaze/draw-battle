@@ -22,3 +22,36 @@
     position: relative;
     font-size: 16px;
 }
+
+@media (max-width: 1118px) {
+    .GambleTitle {
+        width: 60px;
+        font-size: 14px;
+    }
+    .GambleItem {
+        width: 450px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 900px) {
+    .GambleTitle {
+        width: 60px;
+        font-size: 14px;
+    }
+    .GambleItem {
+        width: 250px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 568px) {
+    .GambleTitle {
+        width: 60px;
+        font-size: 14px;
+    }
+    .GambleItem {
+        width: 230px;
+        font-size: 14px;
+    }
+}
