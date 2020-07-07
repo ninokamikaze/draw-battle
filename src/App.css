@@ -84,3 +84,9 @@
     width: 25%;
   }
 }
+
+@media (max-width: 414px) {
+  .TitleAscii {
+    font-size: 10px;
+  }
+}

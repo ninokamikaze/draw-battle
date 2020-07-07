@@ -55,3 +55,26 @@
         font-size: 14px;
     }
 }
+
+@media (max-width: 414px) {
+    .GambleTitle {
+        width: 60px;
+        font-size: 14px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        float: left;
+        margin-left: 40px;
+    }
+    .GambleItem {
+        width: 230px;
+        font-size: 14px;
+        text-align: center;
+        float: left;
+        margin-left: 40px;
+    }
+    .Gamble {
+        margin-top: 0px;
+        float: left;
+    }
+}
